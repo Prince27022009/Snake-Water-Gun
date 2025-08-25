@@ -1,3 +1,24 @@
-# Snake-Water-Gun
-A simple python implementation to classical Snake-Water-Gun game in player vs computer format. Extremely similar to Rock-Paper-Sissor where snake🐍 beat water, water🌊 beat gun and gun🔫 beats snake.
+# My first project. Snake-Water-Gun.
 
+A simple Python implementation of the classic **Snake-Water-Gun** game.  
+It’s similar to Rock-Paper-Scissors, but with a twist:
+
+- Snake drinks water 🐍 > 💧
+- Gun shoots snake 🔫 > 🐍
+- Water damages gun 💧 > 🔫
+
+---
+
+## Features ✨
+- Play against the computer
+- Randomized computer choices
+- Keeps track of wins/losses
+- Beginner-friendly Python code
+
+---
+
+## How to Run 🚀
+1. Make sure you have **Python 3** installed.  
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/snake-water-gun.git
