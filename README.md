@@ -21,4 +21,4 @@ It’s similar to Rock-Paper-Scissors, but with a twist:
 1. Make sure you have **Python 3** installed.  
 2. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/snake-water-gun.git
+https://github.com/Prince27022009/Snake-Water-Gun.git
